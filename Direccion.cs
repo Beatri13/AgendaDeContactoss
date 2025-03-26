@@ -22,6 +22,8 @@ public Direccion(string calle, string numero, string colonia, string ciudad, str
         Colonia = colonia;
         Ciudad = ciudad;
         Departamento = departamento;
+
+
     }
 }
 
